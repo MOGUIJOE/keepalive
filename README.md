@@ -21,4 +21,6 @@
 * 应用无法手动杀死
 
 # 示例
-![示例应用](https://qr.api.cli.im/newqr/create?data=https%253A%252F%252Fwwu.lanzoub.com%252FiI02o047i58d&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&logoshape=no&size=500&kid=cliim&key=18cc10250e49512c97ca1fee9f6210a8)  
+* Demo下载：https://wwu.lanzoub.com/iI02o047i58d
+* 扫码下载 
+* ![示例应用](https://qr.api.cli.im/newqr/create?data=https%253A%252F%252Fwwu.lanzoub.com%252FiI02o047i58d&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&logoshape=no&size=500&kid=cliim&key=18cc10250e49512c97ca1fee9f6210a8)  
