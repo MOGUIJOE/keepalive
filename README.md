@@ -20,4 +20,4 @@
 * 应用无法手动杀死
 
 # 示例
-
+![示例](https://github.com/omgxixi/keepalive/blob/main/KeepAlivePlus.png)
