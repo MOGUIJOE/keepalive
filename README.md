@@ -2,13 +2,13 @@
 ### 由于功能太过强大，仅供学习研究，有需要源码加QQ：2226864272
 手机品牌  | 是否支持保活  | 支持Android版本
  ---- | ----- | ------  
- 小米  | 支持 | ALL
+ 小米  | 支持 | ALL【MIUI13】
  红米  | 支持 | ALL   
- VIVO  | 支持 | ALL   
- OPPO  | 支持 | ALL   
+ VIVO  | 支持 | ALL【OriginOs Ocean】
+ OPPO  | 支持 | ALL【ColorOs12】
  SAMSUNG  | 支持 | ALL   
- 华为  | 支持 | ALL   
- 荣耀  | 支持 | ALL   
+ 华为  | 支持 | ALL【安卓+鸿蒙】   
+ 荣耀  | 支持 | ALL【安卓+鸿蒙】   
  魅族  | 支持 | ALL
  其他  | 支持 | ALL  
  
